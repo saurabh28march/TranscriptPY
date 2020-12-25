@@ -1,0 +1,13 @@
+#submitAudio {
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  margin-top: 10px;
+  size: 40px;
+}
+
+.centerFlex {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
